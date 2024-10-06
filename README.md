@@ -14,6 +14,6 @@
 + Курс "Вселенная тестирования, или Как стать тестировщиком" на базе Stepik
 + Курсы повышения квалификации на базе учебного центра “Промбезопасность”
 
-[Моё резюме](https://docs.google.com/document/d/1fZz1zvsWMATalz1fYVKpyPXwhwmB3R3dI1xq2zmBJmY/edit?usp=drive_link)
+📄 [Моё резюме](https://docs.google.com/document/d/1fZz1zvsWMATalz1fYVKpyPXwhwmB3R3dI1xq2zmBJmY/edit?usp=drive_link)
 
 
