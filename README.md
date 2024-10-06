@@ -17,3 +17,5 @@
 📄 [Моё резюме](https://docs.google.com/document/d/1fZz1zvsWMATalz1fYVKpyPXwhwmB3R3dI1xq2zmBJmY/edit?usp=drive_link)
 
 ### 🤝 Связь со мной:
+
+[image.png](https:\\t.me\OlgaVi_QA)
