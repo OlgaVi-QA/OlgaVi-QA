@@ -22,8 +22,7 @@
 ___
 ### 🛠 Тестирование веб-приложений:
 
-<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="devtools" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="devtools" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
 
 ___
 ### 📱 Тестирование мобильных приложений:
@@ -54,7 +53,7 @@ ___
 ___
 ### 💻 Работа с OS, VM и VPS:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows/windows-original.svg" title="Windows" alt="windows" width="40" height="40"/>
+<img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" title="Windows-10" alt="windows-10" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="ubuntu" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" title="VirtualBox" alt="virtualbox" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/putty/putty-original.svg" title="Putty" alt="putty" width="40" height="40"/>
