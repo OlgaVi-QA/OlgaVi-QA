@@ -18,7 +18,7 @@
 
 ### 🤝 Связь со мной:
 
-<a href="https://t.ru/OlgaVi_QA"><img src="https://marcas-logos.net/wp-content/uploads/2019/12/Telegram-Logo-2013.png" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a>
+<a href="https://t.me/OlgaVi_QA"><img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a>
 ___
 ### 🛠 Тестирование веб-приложений:
 
