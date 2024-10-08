@@ -18,7 +18,7 @@
 
 ### 🤝 Связь со мной:
 
-
+<a href="https://t.ru/OlgaVi_QA"><img src="https://marcas-logos.net/wp-content/uploads/2019/12/Telegram-Logo-2013.png" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a>
 ___
 ### 🛠 Тестирование веб-приложений:
 
@@ -27,7 +27,7 @@ ___
 ___
 ### 📱 Тестирование мобильных приложений:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="androidstudio" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="androidstudio" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg" title="Android" alt="android" width="40" height="40"/> <img src="https://seeklogo.com/images/A/apple-logo-5933E519F8-seeklogo.com.png" title="Apple" alt="apple" width="40" height="40"/>
 
 ___
 ### 💾 Работа с данными:
