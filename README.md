@@ -54,7 +54,7 @@ ___
 <img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" title="Windows-10" alt="windows-10" width="40" height="40"/> <img src="https://vectorified.com/images/ubuntu-logo-icon-7.jpg" title="Ubuntu" alt="ubuntu" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" title="VirtualBox" alt="virtualbox" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/putty/putty-original.svg" title="Putty" alt="putty" width="40" height="40"/>
 
 ___
-### 📈 Артефакты, созданные мной в течение обучения:
+### 📈 Артефакты, созданные мной в процессе обучения:
 
 [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands)
 
