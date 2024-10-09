@@ -57,4 +57,4 @@ ___
 ### 📈 Артефакты, созданные мной в процессе обучения:
 
 + [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands)
-+ [VPS_Commands](https://github.com/OlgaVi-QA/VPS-Commands)
++ [VPS Commands](https://github.com/OlgaVi-QA/VPS-Commands)
