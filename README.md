@@ -22,8 +22,7 @@
 ___
 ### 📁 Тестовая документация:
 
-<img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google_Sheets" alt="google_sheets" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
+<img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google_Sheets" alt="google_sheets" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
 ___
 ### 🛠 Тестирование веб-приложений:
 
