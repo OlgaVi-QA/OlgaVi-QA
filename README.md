@@ -20,6 +20,11 @@
 
 <a href="https://t.me/OlgaVi_QA"><img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a>
 ___
+### 📁 Тестовая документация:
+
+<img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google_Sheets" alt="google_sheets" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
+___
 ### 🛠 Тестирование веб-приложений:
 
 <img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="devtools" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
