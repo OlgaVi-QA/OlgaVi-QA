@@ -16,7 +16,7 @@
 
 📄 __[Моё резюме](https://docs.google.com/document/d/1fZz1zvsWMATalz1fYVKpyPXwhwmB3R3dI1xq2zmBJmY/edit?usp=drive_link)__
 
-📇 __[Мои удостоверения и сертификаты]()__
+📇 __[Мои удостоверения и сертификаты](https://github.com/OlgaVi-QA/Certificates)__
 
 ### 🤝 Связь со мной:
 
