@@ -58,6 +58,7 @@ ___
 ___
 ### 📈 Артефакты, созданные мной в процессе обучения:
 
++ [My first UI Autotest](https://github.com/OlgaVi-QA/ui-autotests-start)
 + [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands)
 + [VPS Commands](https://github.com/OlgaVi-QA/VPS-Commands)
 + [Git Commands](https://github.com/OlgaVi-QA/Git/blob/main/README.md)
