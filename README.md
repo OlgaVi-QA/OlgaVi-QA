@@ -20,8 +20,7 @@ Manual QA Engineer, в профессии с 2023 года, в том числе
 
 ### 🤝 Связь со мной:
 
-<a href="https://t.me/ola2ole"><img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/olga-zhuravleva-002a923b"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERaCSQIzk5GR0DfP9dqGDo9gO0UutPtB23hF6xhplMg&s
-" title="Linkedin" alt="linkedin" width="40" height="40"/>
+<a href="https://t.me/ola2ole"><img src="https://www.svgrepo.com/show/452115/telegram.svg" title="Telegram" alt="telegram" width="40" height="40"/></a> <a href="mailto:olgavi.test@yandex.ru"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" title="Email" alt="email" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/olga-zhuravleva-002a923b"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERaCSQIzk5GR0DfP9dqGDo9gO0UutPtB23hF6xhplMg&s" title="Linkedin" alt="linkedin" width="40" height="40"/>
 ___
 ### 🛠  Применяю в своей работе:
 
