@@ -49,7 +49,7 @@ ___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpeQemJ3UtuAMggI8VKJ25ZbXq5MdaEbKe1E9mJABi23aqpUhuZePt1o&s=10" title="Ollama" alt="ollama" width="40" height="40"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/hermesagent.png" title="Hermes" alt="hermes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/qwen-color.png" title="Qwen" alt="qwen" width="40" height="40"/>
 
 ___
-### 💎 Артефакты, созданные мной в процессе обучения:
+### 🎓 Артефакты, созданные мной в процессе обучения:
 
 + [My first UI Autotest](https://github.com/OlgaVi-QA/ui-autotests-start)
 + [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands/blob/main/README.md)
