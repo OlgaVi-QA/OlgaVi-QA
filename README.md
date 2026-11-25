@@ -28,7 +28,7 @@ ___
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="jira" width="40" height="40"/> <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google_Sheets" alt="google_sheets" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
 
 #### 🖥️ Тестирование веб-приложений:
-<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="devtools" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/> <img src="https://githubusercontent.com" titlr="Proxyman"alt="proxyman" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/378785/chrome-dev.svg" title="DevTools" alt="devtools" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/> <img src="https://proxyman.com/assets/images/AppIcon_v2.png" title="Proxyman"alt="proxyman" width="40" height="40"/>
 
 
 #### 📱 Тестирование мобильных приложений:
