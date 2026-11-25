@@ -14,7 +14,7 @@ Manual QA Engineer, в профессии с 2023 года, в том числе
 + Открытый курс QA Road (Telegram-канал)
 + Курс повышения квалификации на базе учебного центра “Промбезопасность”
 
-📄 __[Моё резюме](https://docs.google.com/document/d/1kgQ8toPID-5RYHLFt7CD9dUbupMDi2VbE2kI02VAkbs/edit)__
+📄 __[Моё резюме](software_engineer_cv.pdf)__
 
 📇 __[Мои удостоверения и сертификаты](https://github.com/OlgaVi-QA/Certificates/blob/main/README.md)__
 
