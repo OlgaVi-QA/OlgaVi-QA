@@ -43,7 +43,7 @@ ___
 ___
 ### ⚙ Языки программирования, форматы хранения и передачи данных:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" title="JSON" alt="json" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" title="HTML" alt="html" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" title="JSON" alt="json" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" title="HTML" alt="html" width="40" height="40" /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" title="CSS" alt="css" widht="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/> ![XML](https://shields.io)
 
 ___
 ### ✏ Работа с кодом:
