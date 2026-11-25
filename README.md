@@ -2,21 +2,20 @@
 
 ### 🙋‍♀️ Немного обо мне:
 
-Я Ольга, начинающий тестировщик, всегда открытый новым знаниям и профессиональному опыту. Внимательная, усидчивая, соблюдаю дедлайны.
+Manual QA Engineer, в профессии с 2023 года, в том числе - 1,5 года подтверждённого коммерческого опыта. 
 
 #### Что имею за своей спиной:
 
-+ Авторский курс от практикующего тестировщика Надежды Дудник
++ Работа в качестве Специалиста по тестированию в компании Red Collar
++ Работа в качестве Специалиста по тестированию в компании SimbirSoft
++ Учебные курсы на обучающей платформе Stepik
++ Авторский курс от практикующего тестировщика Надежды Дудни
 + Открытый курс QA Road (Telegram-канал)
-+ Участие в проектах по тестированию веб-приложений
-+ Участие в проектах по тестированию мобильных приложений
-+ Курс-интерактивный тренажёр по SQL на базе Stepik
-+ Курс "Вселенная тестирования, или Как стать тестировщиком" на базе Stepik
-+ Курсы повышения квалификации на базе учебного центра “Промбезопасность”
++ Курс повышения квалификации на базе учебного центра “Промбезопасность”
 
 📄 __[Моё резюме](https://docs.google.com/document/d/1kgQ8toPID-5RYHLFt7CD9dUbupMDi2VbE2kI02VAkbs/edit)__
 
-📇 __[Мои удостоверения и сертификаты](https://github.com/OlgaVi-QA/Certificates)__
+📇 __[Мои удостоверения и сертификаты](https://github.com/OlgaVi-QA/Certificates/blob/main/README.md)__
 
 ### 🤝 Связь со мной:
 
@@ -59,7 +58,7 @@ ___
 ### 📈 Артефакты, созданные мной в процессе обучения:
 
 + [My first UI Autotest](https://github.com/OlgaVi-QA/ui-autotests-start)
-+ [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands)
-+ [VPS Commands](https://github.com/OlgaVi-QA/VPS-Commands)
++ [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands/blob/main/README.md)
++ [VPS Commands](https://github.com/OlgaVi-QA/VPS-Commands/blob/main/README.md)
 + [Git Commands](https://github.com/OlgaVi-QA/Git/blob/main/README.md)
-+ [MySQL](https://github.com/OlgaVi-QA/MySQL)
++ [MySQL](https://github.com/OlgaVi-QA/MySQL/blob/main/README.md)
