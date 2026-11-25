@@ -24,7 +24,7 @@ Manual QA Engineer, в профессии с 2023 года, в том числе
 ___
 ### 🛠  Применяю в своей работе:
 
-#### 📁 Тестовая и проектная документация:
+#### 🗂️ Тестовая и проектная документация:
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="jira" width="40" height="40"/> <img src="https://img.icons8.ru/color/1200/confluence--v2.jpg" title="Confluence" alt="confluence" width="40" height="40"/> <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="TestIT" alt="testit" width="40" height="40"/> <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google_Sheets" alt="google_sheets" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>
 
 #### 🖥️ Тестирование веб-приложений:
@@ -39,7 +39,7 @@ ___
 #### ⚙ Языки программирования, разметки и оформления. Форматы хранения и передачи данных:
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" title="HTML" alt="html" width="40" height="40" /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" title="CSS" alt="css" widht="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/12419/12419185.png" title="JSON" alt="json" width="40" height="40"/> <img src="https://www.svgrepo.com/show/31053/xml.svg" title="XML" alt="xml" width="40" height="40"/>
 
-#### ✏ Работа с кодом:
+#### 🔀 Работа с кодом:
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PyCharm-Dark.svg" title="PyCharm" alt="pycharm" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/dahliaOS/icons/refs/heads/main/icons/applications/paper/png/1x/Terminal.png" title="CMD" alt="cmd" widht="40" height="40"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/github.png" title="GitHub" alt="github" width="40" height="40"/>
 
 #### 💻 Работа с OS, VM и VPS:
@@ -49,7 +49,7 @@ ___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpeQemJ3UtuAMggI8VKJ25ZbXq5MdaEbKe1E9mJABi23aqpUhuZePt1o&s=10" title="Ollama" alt="ollama" width="40" height="40"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/hermesagent.png" title="Hermes" alt="hermes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/qwen-color.png" title="Qwen" alt="qwen" width="40" height="40"/>
 
 ___
-### 📈 Артефакты, созданные мной в процессе обучения:
+### 💎 Артефакты, созданные мной в процессе обучения:
 
 + [My first UI Autotest](https://github.com/OlgaVi-QA/ui-autotests-start)
 + [Ubuntu Commands](https://github.com/OlgaVi-QA/Ubuntu-Commands/blob/main/README.md)
